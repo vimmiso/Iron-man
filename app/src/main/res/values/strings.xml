@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button">Button</string>
+    <string name="toolbar">My profile</string>
+    <string name="_91_9876543210">+91 9876543210</string>
+    <string name="tonystark_gmail_com">tonystark@gmail.com</string>
+    <string name="tony_stark">Tony Stark</string>
+    <string name="stark_industries">Stark Industries</string>
+</resources>
